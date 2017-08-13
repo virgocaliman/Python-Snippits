@@ -1,0 +1,4 @@
+This function will take a hard coded question and solution as arguments and allow the user 3 attempts to get the correct answer.
+It will determine whether the question is numeric or not so they can be handled differently if needed.
+If an incorrect answer is entered it prints a message letting the user know that the answer was incorrect.
+If the user gets the correct answer within 3 attempts it prints a message letting the user know that the answer is correct.
